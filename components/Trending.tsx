@@ -8,7 +8,7 @@ function Trending() {
   return (
     <div className="my-20 flex  items-center justify-center">
       {/* images section  */}
-      <div className="flex w-11/12 items-center justify-center gap-4 p-5 sm:flex-col md:ml-20 md:flex-row">
+      <div className="flex w-11/12 flex-col items-center justify-center gap-4 p-5 md:ml-20 md:flex-row">
         <div className="relative">
           <Image
             src={One}
@@ -59,19 +59,19 @@ function Trending() {
           </p>
           <div className="flex items-start justify-start gap-5">
             <div className="my-5 flex-col">
-              <h1 className="text-4xl font-bold text-orange-600">50+</h1>
+              <h1 className="text-4xl font-bold text-gray-600">50+</h1>
               <p className="text-xl font-medium text-gray-600">Destination</p>
             </div>
             <div className="my-5 flex-col">
-              <h1 className="text-4xl font-bold text-orange-600">800+</h1>
+              <h1 className="text-4xl font-bold text-gray-600">800+</h1>
               <p className="text-xl font-medium text-gray-600">Tourists</p>
             </div>
             <div className="my-5 flex-col">
-              <h1 className="text-4xl font-bold text-orange-600">300+</h1>
+              <h1 className="text-4xl font-bold text-gray-600">300+</h1>
               <p className="text-xl font-medium text-gray-600">Hotels</p>
             </div>
           </div>
-          <button className="h-14 w-auto rounded-xl bg-orange-400 px-8  text-white shadow-xl hover:bg-black">
+          <button className="h-14 w-auto rounded-xl bg-violet-600 px-8  text-white shadow-xl hover:bg-violet-900">
             Find Place
           </button>
         </div>

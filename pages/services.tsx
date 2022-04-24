@@ -19,27 +19,27 @@ function services() {
       </div>
       <div className="mt-10 mb-10 flex flex-col items-center justify-center">
         <div className="grid grid-cols-2 gap-4 md:grid-cols-4 ">
-          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-yellow-400 px-8 hover:bg-black hover:shadow-xl ">
-            <GiCampfire className="text-2xl text-yellow-500" />
-            <h1 className="text-xl font-semibold text-gray-800 group-hover:text-white">
+          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
+            <GiCampfire className="text-2xl text-gray-600 group-hover:text-white" />
+            <h1 className="text-xl font-semibold text-violet-600 group-hover:text-white">
               Camping
             </h1>
           </div>
-          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-yellow-400 px-8 hover:bg-black hover:shadow-xl ">
-            <GiProtectionGlasses className="text-2xl text-yellow-500" />
-            <h1 className="text-xl font-semibold text-gray-800 group-hover:text-white">
+          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
+            <GiProtectionGlasses className="text-2xl text-gray-600 group-hover:text-white" />
+            <h1 className="text-xl font-semibold text-violet-600 group-hover:text-white">
               Full Protection
             </h1>
           </div>
-          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-yellow-400 px-8 hover:bg-black hover:shadow-xl ">
-            <GiMountainClimbing className="text-2xl text-yellow-500" />
-            <h1 className="text-xl font-semibold text-gray-800 group-hover:text-white">
+          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
+            <GiMountainClimbing className="text-2xl text-gray-600 group-hover:text-white" />
+            <h1 className="text-xl font-semibold text-violet-600 group-hover:text-white">
               Climbing
             </h1>
           </div>
-          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-yellow-400 px-8 hover:bg-black hover:shadow-xl ">
-            <GiSpeedBoat className="text-2xl text-yellow-500" />
-            <h1 className="text-xl font-semibold text-gray-800 group-hover:text-white">
+          <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
+            <GiSpeedBoat className="text-2xl text-gray-600 group-hover:text-white" />
+            <h1 className="text-xl font-semibold text-violet-600 group-hover:text-white">
               River Rafting
             </h1>
           </div>
